@@ -1,0 +1,13 @@
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\bin\Debug\netcoreapp3.1\Aula70-Vetor_II.exe
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\bin\Debug\netcoreapp3.1\Aula70-Vetor_II.deps.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\bin\Debug\netcoreapp3.1\Aula70-Vetor_II.runtimeconfig.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\bin\Debug\netcoreapp3.1\Aula70-Vetor_II.runtimeconfig.dev.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\bin\Debug\netcoreapp3.1\Aula70-Vetor_II.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\bin\Debug\netcoreapp3.1\Aula70-Vetor_II.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\obj\Debug\netcoreapp3.1\Aula70-Vetor_II.csprojAssemblyReference.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\obj\Debug\netcoreapp3.1\Aula70-Vetor_II.AssemblyInfoInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\obj\Debug\netcoreapp3.1\Aula70-Vetor_II.AssemblyInfo.cs
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\obj\Debug\netcoreapp3.1\Aula70-Vetor_II.csproj.CoreCompileInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\obj\Debug\netcoreapp3.1\Aula70-Vetor_II.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\obj\Debug\netcoreapp3.1\Aula70-Vetor_II.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula70-Vetor_II\obj\Debug\netcoreapp3.1\Aula70-Vetor_II.genruntimeconfig.cache

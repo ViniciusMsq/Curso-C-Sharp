@@ -1,0 +1,13 @@
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\obj\Debug\netcoreapp3.1\Aula78-Exercicio.csprojAssemblyReference.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\obj\Debug\netcoreapp3.1\Aula78-Exercicio.AssemblyInfoInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\obj\Debug\netcoreapp3.1\Aula78-Exercicio.AssemblyInfo.cs
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\obj\Debug\netcoreapp3.1\Aula78-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\bin\Debug\netcoreapp3.1\Aula78-Exercicio.exe
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\bin\Debug\netcoreapp3.1\Aula78-Exercicio.deps.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\bin\Debug\netcoreapp3.1\Aula78-Exercicio.runtimeconfig.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\bin\Debug\netcoreapp3.1\Aula78-Exercicio.runtimeconfig.dev.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\bin\Debug\netcoreapp3.1\Aula78-Exercicio.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\bin\Debug\netcoreapp3.1\Aula78-Exercicio.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\obj\Debug\netcoreapp3.1\Aula78-Exercicio.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\obj\Debug\netcoreapp3.1\Aula78-Exercicio.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula78-Exercicio\obj\Debug\netcoreapp3.1\Aula78-Exercicio.genruntimeconfig.cache

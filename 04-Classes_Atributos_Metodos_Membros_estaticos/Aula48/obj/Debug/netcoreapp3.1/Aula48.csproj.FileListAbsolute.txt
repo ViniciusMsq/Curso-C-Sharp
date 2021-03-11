@@ -1,0 +1,13 @@
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\bin\Debug\netcoreapp3.1\Aula48.exe
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\bin\Debug\netcoreapp3.1\Aula48.deps.json
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\bin\Debug\netcoreapp3.1\Aula48.runtimeconfig.json
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\bin\Debug\netcoreapp3.1\Aula48.runtimeconfig.dev.json
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\bin\Debug\netcoreapp3.1\Aula48.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\bin\Debug\netcoreapp3.1\Aula48.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\obj\Debug\netcoreapp3.1\Aula48.csprojAssemblyReference.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\obj\Debug\netcoreapp3.1\Aula48.AssemblyInfoInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\obj\Debug\netcoreapp3.1\Aula48.AssemblyInfo.cs
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\obj\Debug\netcoreapp3.1\Aula48.csproj.CoreCompileInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\obj\Debug\netcoreapp3.1\Aula48.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\obj\Debug\netcoreapp3.1\Aula48.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula48\obj\Debug\netcoreapp3.1\Aula48.genruntimeconfig.cache

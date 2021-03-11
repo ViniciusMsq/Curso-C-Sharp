@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vIJj0rxyqL5MgwYl2kzLqykSNY6szA19NaJxPbnCOvoRHHTed3RG1trGM6HRqjXua5Xf9nqViFJ0eLX68QFECA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\06-Comportamento_de_memoria_Arrays_Listas\\Aula81-Exercicio\\Aula81-Exercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

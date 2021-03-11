@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula80-Matriz_II/1.0.0": {
+        "runtime": {
+          "Aula80-Matriz_II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula80-Matriz_II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

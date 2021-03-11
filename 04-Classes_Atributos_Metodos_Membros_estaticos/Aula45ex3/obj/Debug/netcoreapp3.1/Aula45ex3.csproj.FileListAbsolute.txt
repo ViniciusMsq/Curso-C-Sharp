@@ -1,0 +1,13 @@
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\obj\Debug\netcoreapp3.1\Aula45ex3.csprojAssemblyReference.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\obj\Debug\netcoreapp3.1\Aula45ex3.AssemblyInfoInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\obj\Debug\netcoreapp3.1\Aula45ex3.AssemblyInfo.cs
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\obj\Debug\netcoreapp3.1\Aula45ex3.csproj.CoreCompileInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\bin\Debug\netcoreapp3.1\Aula45ex3.exe
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\bin\Debug\netcoreapp3.1\Aula45ex3.deps.json
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\bin\Debug\netcoreapp3.1\Aula45ex3.runtimeconfig.json
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\bin\Debug\netcoreapp3.1\Aula45ex3.runtimeconfig.dev.json
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\bin\Debug\netcoreapp3.1\Aula45ex3.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\bin\Debug\netcoreapp3.1\Aula45ex3.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\obj\Debug\netcoreapp3.1\Aula45ex3.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\obj\Debug\netcoreapp3.1\Aula45ex3.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\Aula45ex3\obj\Debug\netcoreapp3.1\Aula45ex3.genruntimeconfig.cache

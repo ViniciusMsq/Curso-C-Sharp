@@ -1,0 +1,13 @@
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\bin\Debug\netcoreapp3.1\Aula68-Nullable.exe
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\bin\Debug\netcoreapp3.1\Aula68-Nullable.deps.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\bin\Debug\netcoreapp3.1\Aula68-Nullable.runtimeconfig.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\bin\Debug\netcoreapp3.1\Aula68-Nullable.runtimeconfig.dev.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\bin\Debug\netcoreapp3.1\Aula68-Nullable.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\bin\Debug\netcoreapp3.1\Aula68-Nullable.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\obj\Debug\netcoreapp3.1\Aula68-Nullable.csprojAssemblyReference.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\obj\Debug\netcoreapp3.1\Aula68-Nullable.AssemblyInfoInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\obj\Debug\netcoreapp3.1\Aula68-Nullable.AssemblyInfo.cs
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\obj\Debug\netcoreapp3.1\Aula68-Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\obj\Debug\netcoreapp3.1\Aula68-Nullable.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\obj\Debug\netcoreapp3.1\Aula68-Nullable.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula68-Nullable\obj\Debug\netcoreapp3.1\Aula68-Nullable.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula68-Nullable/1.0.0": {
+        "runtime": {
+          "Aula68-Nullable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula68-Nullable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

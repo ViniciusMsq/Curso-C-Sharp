@@ -1,0 +1,13 @@
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\obj\Debug\netcoreapp3.1\Aula66-Struct.csprojAssemblyReference.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\obj\Debug\netcoreapp3.1\Aula66-Struct.AssemblyInfoInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\obj\Debug\netcoreapp3.1\Aula66-Struct.AssemblyInfo.cs
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\obj\Debug\netcoreapp3.1\Aula66-Struct.csproj.CoreCompileInputs.cache
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\bin\Debug\netcoreapp3.1\Aula66-Struct.exe
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\bin\Debug\netcoreapp3.1\Aula66-Struct.deps.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\bin\Debug\netcoreapp3.1\Aula66-Struct.runtimeconfig.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\bin\Debug\netcoreapp3.1\Aula66-Struct.runtimeconfig.dev.json
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\bin\Debug\netcoreapp3.1\Aula66-Struct.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\bin\Debug\netcoreapp3.1\Aula66-Struct.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\obj\Debug\netcoreapp3.1\Aula66-Struct.dll
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\obj\Debug\netcoreapp3.1\Aula66-Struct.pdb
+C:\Users\Vinic\DriveFai\CursoCSharp\06-Comportamento_de_memoria_Arrays_Listas\Aula66-Struct\obj\Debug\netcoreapp3.1\Aula66-Struct.genruntimeconfig.cache
