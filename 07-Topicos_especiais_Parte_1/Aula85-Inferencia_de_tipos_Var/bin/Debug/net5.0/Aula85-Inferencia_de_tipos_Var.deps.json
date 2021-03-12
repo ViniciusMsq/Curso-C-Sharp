@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aula85-Inferencia_de_tipos_Var/1.0.0": {
+        "runtime": {
+          "Aula85-Inferencia_de_tipos_Var.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula85-Inferencia_de_tipos_Var/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

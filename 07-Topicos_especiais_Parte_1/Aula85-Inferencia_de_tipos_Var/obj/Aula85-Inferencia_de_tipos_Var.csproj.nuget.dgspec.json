@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\06-Comportamento_de_memoria_Arrays_Listas\\Aula77-Listas_II\\Aula77-Listas_II.csproj": {}
+    "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\07-Topicos_especiais_Parte_1\\Aula85-Inferencia_de_tipos_Var\\Aula85-Inferencia_de_tipos_Var.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\06-Comportamento_de_memoria_Arrays_Listas\\Aula77-Listas_II\\Aula77-Listas_II.csproj": {
+    "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\07-Topicos_especiais_Parte_1\\Aula85-Inferencia_de_tipos_Var\\Aula85-Inferencia_de_tipos_Var.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\06-Comportamento_de_memoria_Arrays_Listas\\Aula77-Listas_II\\Aula77-Listas_II.csproj",
-        "projectName": "Aula77-Listas_II",
-        "projectPath": "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\06-Comportamento_de_memoria_Arrays_Listas\\Aula77-Listas_II\\Aula77-Listas_II.csproj",
+        "projectUniqueName": "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\07-Topicos_especiais_Parte_1\\Aula85-Inferencia_de_tipos_Var\\Aula85-Inferencia_de_tipos_Var.csproj",
+        "projectName": "Aula85-Inferencia_de_tipos_Var",
+        "projectPath": "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\07-Topicos_especiais_Parte_1\\Aula85-Inferencia_de_tipos_Var\\Aula85-Inferencia_de_tipos_Var.csproj",
         "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\06-Comportamento_de_memoria_Arrays_Listas\\Aula77-Listas_II\\obj\\",
+        "outputPath": "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\07-Topicos_especiais_Parte_1\\Aula85-Inferencia_de_tipos_Var\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -53,12 +53,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.13, 3.1.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

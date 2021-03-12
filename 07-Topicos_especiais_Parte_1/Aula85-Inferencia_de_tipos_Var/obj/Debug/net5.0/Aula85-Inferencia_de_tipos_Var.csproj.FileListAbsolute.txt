@@ -1,0 +1,16 @@
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\bin\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.exe
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\bin\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.deps.json
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\bin\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.runtimeconfig.json
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\bin\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.runtimeconfig.dev.json
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\bin\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.dll
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\bin\Debug\net5.0\ref\Aula85-Inferencia_de_tipos_Var.dll
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\bin\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.pdb
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\obj\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.csprojAssemblyReference.cache
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\obj\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\obj\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.AssemblyInfoInputs.cache
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\obj\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.AssemblyInfo.cs
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\obj\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\obj\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.dll
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\obj\Debug\net5.0\ref\Aula85-Inferencia_de_tipos_Var.dll
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\obj\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.pdb
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula85-Inferencia_de_tipos_Var\obj\Debug\net5.0\Aula85-Inferencia_de_tipos_Var.genruntimeconfig.cache

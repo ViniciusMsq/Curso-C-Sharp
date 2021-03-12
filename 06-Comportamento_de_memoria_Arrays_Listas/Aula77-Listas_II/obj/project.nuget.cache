@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V3F8VEW9nitCjz0cFSzzB7jctewhhgE2FvddasWwWw53njcrYCSm/4D8+Dfaks1SirUgLU29CnbECV8/B99CWg==",
+  "dgSpecHash": "ExN0WlqPCsfP8zJQ9aa40dvSn8EangvjYHkvdHKiWRodQ9yLAkQdueUEEZ57AL526Xf9xGnLXbbmNUSuMNksNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinic\\DriveFai\\CursoCSharp\\06-Comportamento_de_memoria_Arrays_Listas\\Aula77-Listas_II\\Aula77-Listas_II.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Vinicius\\DriveFai\\CursoCSharp\\06-Comportamento_de_memoria_Arrays_Listas\\Aula77-Listas_II\\Aula77-Listas_II.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
