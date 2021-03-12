@@ -1,0 +1,16 @@
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\bin\Debug\net5.0\Aula86-Altertnativa_switch_case.exe
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\bin\Debug\net5.0\Aula86-Altertnativa_switch_case.deps.json
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\bin\Debug\net5.0\Aula86-Altertnativa_switch_case.runtimeconfig.json
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\bin\Debug\net5.0\Aula86-Altertnativa_switch_case.runtimeconfig.dev.json
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\bin\Debug\net5.0\Aula86-Altertnativa_switch_case.dll
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\bin\Debug\net5.0\ref\Aula86-Altertnativa_switch_case.dll
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\bin\Debug\net5.0\Aula86-Altertnativa_switch_case.pdb
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\obj\Debug\net5.0\Aula86-Altertnativa_switch_case.csprojAssemblyReference.cache
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\obj\Debug\net5.0\Aula86-Altertnativa_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\obj\Debug\net5.0\Aula86-Altertnativa_switch_case.AssemblyInfoInputs.cache
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\obj\Debug\net5.0\Aula86-Altertnativa_switch_case.AssemblyInfo.cs
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\obj\Debug\net5.0\Aula86-Altertnativa_switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\obj\Debug\net5.0\Aula86-Altertnativa_switch_case.dll
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\obj\Debug\net5.0\ref\Aula86-Altertnativa_switch_case.dll
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\obj\Debug\net5.0\Aula86-Altertnativa_switch_case.pdb
+C:\Users\Vinicius\DriveFai\CursoCSharp\07-Topicos_especiais_Parte_1\Aula86-Altertnativa_switch_case\obj\Debug\net5.0\Aula86-Altertnativa_switch_case.genruntimeconfig.cache
